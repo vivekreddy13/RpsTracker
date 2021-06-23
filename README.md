@@ -23,5 +23,5 @@ Front End
 
 Back End
 
--Blazor ServerSide
--SQL Server
+- Blazor ServerSide
+- SQL Server
